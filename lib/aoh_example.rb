@@ -14,7 +14,7 @@ def assembled_aoh
     KATE_G = { name:  "Kate Gompert", occupation: "None" },
     BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred"}
     ]
-    assembled_aoh
+  a_o_h
 end
 
 def literal_aoh
